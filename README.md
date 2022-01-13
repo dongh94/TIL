@@ -117,5 +117,6 @@ $ git pull
 $ git pull origin master
 ```
 
-* 이전에 일단 `$ git log --oneline`으로 변동사항 없는지 둘을 비교 후 pull 하는 것이 좋다.
+* 이전에 일단 `$ git log --oneline`으로 확인 후 pull 한 이후에 한번도 log하여 
+* 둘을 비교 후 pull 하는 것이 좋다.
 
