@@ -19,3 +19,9 @@ $ git remote -v
 ```
 $ git
 ```
+
+-   원격 저장소로 저장
+
+```
+$ git push origin master
+```
