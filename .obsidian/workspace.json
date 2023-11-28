@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL_230104.md",
+                "file": "2023/TIL_230104.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd94830dd5aabc3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Zettelkasten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f285885e794290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/TIL_230105.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2746c73dbdc042e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "계획표/2023 PLAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TIL_230104.md",
+                "file": "계획표/2023 PLAN.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL_230104.md"
+                "file": "계획표/2023 PLAN.md"
               }
             }
           }
@@ -142,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL_230104.md",
+                "file": "계획표/2023 PLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL_230104.md",
+                "file": "계획표/2023 PLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,14 +230,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "903c3e0ef7146753",
+  "active": "2746c73dbdc042e8",
   "lastOpenFiles": [
-    "TIL_230103.md",
-    "TIL_230102.md",
-    "TIL_230104.md",
-    "2023-01-04.md",
+    "2023/TIL_230104.md",
+    "2023/TIL_230105.md",
+    "계획표/2023 PLAN.md",
+    "2023/TIL_230103.md",
+    "2023/TIL_230102.md",
     "Template/Zettelkasten.md",
+    "무제 파일.md",
     "README.md",
+    "2023-01-04.md",
     "무제 파일.canvas"
   ]
 }
