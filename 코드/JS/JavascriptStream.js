@@ -112,3 +112,9 @@ Math_max = Math.max(Math_array[0], max_v);
 console.log('Math_min: ', Math_min);
 console.log('Math_max: ', Math_max);
 
+const concat_array1 = [1, 2, 3];
+const concat_array2 = [4, 5];
+const concat_value = 6;
+const concat_array = concat_array1.concat(concat_array2, concat_value);
+// const concat_array = [...concat_array1, ...concat_array2, concat_value];
+console.log('concat_array: ', concat_array);
