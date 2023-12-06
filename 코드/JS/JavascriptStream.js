@@ -91,3 +91,24 @@ console.log('test_arr01: ', test_arr01);
 
 const test_set01 = new Set(['x', 'y', 'z']).values();
 console.log('test_set01: ', test_set01);
+
+const lastIndex = fruits.lastIndexOf('apple');
+console.log('lastIndex: ', lastIndex);
+
+const null_v = null;
+console.log('null_v: ', null_v === false);
+const undefined_v = undefined;
+console.log('undefined_v is false ? : ', undefined_v === false);
+console.log('undefined_v is just undefined ?: ', undefined_v === undefined);
+
+const Math_array = [1, 2, 3, 4, 5];
+const random_value = Math_array[Math.floor(Math.random() * 5)]
+console.log('random_value: ', random_value);
+
+min_v = Infinity;
+max_v = -Infinity;
+Math_min = Math.min(Math_array[4], min_v);
+Math_max = Math.max(Math_array[0], max_v);
+console.log('Math_min: ', Math_min);
+console.log('Math_max: ', Math_max);
+
