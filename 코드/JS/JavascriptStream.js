@@ -118,3 +118,5 @@ const concat_value = 6;
 const concat_array = concat_array1.concat(concat_array2, concat_value);
 // const concat_array = [...concat_array1, ...concat_array2, concat_value];
 console.log('concat_array: ', concat_array);
+
+
