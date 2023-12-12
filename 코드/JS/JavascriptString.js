@@ -52,3 +52,15 @@ console.log('바뀌지 않는 초기 String : ', str)
 console.log('tolowercase: ', str.toLowerCase());
 console.log('touppercase: ', str.toUpperCase());
 console.log('includes: ', str.includes('Javascript'))
+
+const str_arr = ['banana', 'apple', 'orange', 'grape'];
+str_arr.sort((a, b) => {
+    if (a < b) return 1;
+    if (a > b) return -1;
+    return 0;
+});
+console.log('str_arr: ', str_arr); // 내림차순 출력: ['orange', 'grape', 'banana', 'apple']
+
+// 반복 메서드 !!
+const repeatStr = str.repeat(5);
+console.log('repeatStr: ', repeatStr);
