@@ -119,4 +119,15 @@ const concat_array = concat_array1.concat(concat_array2, concat_value);
 // const concat_array = [...concat_array1, ...concat_array2, concat_value];
 console.log('concat_array: ', concat_array);
 
+// true
+bin_arr = []
+console.log('bin_arr: ', !!bin_arr);
 
+// 반복 plus
+const repeatStr = 'abc'
+const repeat_array = [...Array(3).fill(repeatStr)]
+const repeat_str = Array(3).fill(repeatStr).join('')
+console.log('repeat_array: ', repeat_array);
+console.log('repeat_str: ', repeat_str);
+console.log(repeat_array + ['붙이기'])
+console.log(repeat_str + ['붙이기'])
