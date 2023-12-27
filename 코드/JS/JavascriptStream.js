@@ -14,7 +14,7 @@
  * every(i => i > 0): true/ false 
  */
 
-const array = [1, 2, 3]
+const array = [1, 2, 3, 4]
 console.log('array: ', array);
 
 // 1-1. forEach - array.forEach(callback) : 전 반복
@@ -47,6 +47,9 @@ console.log('array: ', array);
 // 5. 첫 포함, 마지막 불포함(보통 길이) 배열 return
 const slice_array = array.slice(0, 2);
 console.log('slice_array: ', slice_array);
+
+const slice_array2 = array.slice(2, 1);
+console.log('slice_array2: ', slice_array2);
 
 // 6. reduce - return 누적 값 acc
 const reduce_value = array.reduce((acc, curr) => { return acc + curr }, 0)
@@ -131,3 +134,4 @@ console.log('repeat_array: ', repeat_array);
 console.log('repeat_str: ', repeat_str);
 console.log(repeat_array + ['붙이기'])
 console.log(repeat_str + ['붙이기'])
+
