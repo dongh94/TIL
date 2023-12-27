@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "9168877ee9c74898",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9594a666d8353fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4adb7d686e8b9917",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c8710c5b32bbf61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VSCODE - yarn berry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8461acdb0dc6818c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VSCODE - vue.config.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bcdee1e5772644c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webpack - Babel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77b525bbd0279890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VSCODE - tsconfig.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4ff9bc39616d470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NODE.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b9eeae803dcb457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webpack - Babel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a088f9d260d2e255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webpack - Babel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c0a8b311e7ccd51",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93bfa5229b42e5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90a60d9379501a44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98d4450e9ec08c00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09c30e9ff53f01ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "267cf8546fe4bc04",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5578450d0de2df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "376a91fc5290a035",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Webpack - Babel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa16ef91e74e540",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Webpack - Babel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c99b6fac6bc4670a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a51313bbcafaa41c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Webpack - Babel.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a088f9d260d2e255",
+  "lastOpenFiles": [
+    "NVM.md",
+    "Promise.md",
+    "Webpack - Babel.md",
+    "NODE.js.md",
+    "VSCODE - tsconfig.js.md",
+    "VSCODE - vue.config.js.md",
+    "VSCODE - yarn berry.md"
+  ]
+}
